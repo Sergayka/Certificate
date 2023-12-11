@@ -1,2 +1,2 @@
 Pillow~=9.5.0
-email~=
+pandas~=2.1.4
